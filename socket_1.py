@@ -1,3 +1,5 @@
+#Adding IP Address to cmd
+#Courtesy: StackOverflow.com
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
